@@ -3,7 +3,7 @@ from googleapiclient.discovery import build
 import re
 
 # ================= KONFIGURASI =================
-API_KEY = 'AIzaSyD-QPK9hBFSn2Am5mTrSMP9nPNR99ABr0k'
+API_KEY = 'API DISINI'
 TOPIK = 'AI di Era Digital' # Sesuaikan dengan topik kamu
 
 # Masukkan hingga 20 URL (atau lebih) di dalam daftar ini
